@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: 9a0b00cc2ab504e84a335f65939d737e
+  productGUID: 3ef1176f8fa7c4ee695cd8dcc98bcc08
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: BenzaitenSolo
+  productName: prova
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -674,14 +674,14 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: BenzaitenSolo
+  metroPackageName: prova
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: BenzaitenSolo
+  metroApplicationDescription: prova
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -750,10 +750,10 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 173fcf7c-5963-41d6-919c-52700cb9773b
+  cloudProjectId: c38fd53b-a62d-485d-b463-664c00752826
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: BenzaitenSolo
+  projectName: prova
   organizationId: consi133
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
