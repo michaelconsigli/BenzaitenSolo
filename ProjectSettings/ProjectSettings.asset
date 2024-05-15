@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: 3ef1176f8fa7c4ee695cd8dcc98bcc08
+  productGUID: f2d73ed385df543858f93c16e54e2318
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: prova
+  productName: new
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -674,14 +674,14 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: prova
+  metroPackageName: new
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: prova
+  metroApplicationDescription: new
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -750,10 +750,10 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: c38fd53b-a62d-485d-b463-664c00752826
+  cloudProjectId: be255959-aaa4-419c-95f8-9999643cc0c8
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: prova
+  projectName: new
   organizationId: consi133
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
