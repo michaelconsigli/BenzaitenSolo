@@ -1,0 +1,361 @@
+newmtl Balloon
+Kd 0.588 0.588 0.588
+Ke 0 0 0
+Ka 0 0 0
+Ks 0 0 0
+Ns 9
+Tr 0
+d 1
+Ni 1.5
+Tf 1 1 1
+map_Kd Balloon.jpg
+map_Ka Balloon.jpg
+
+newmtl Bottles
+Kd 0.588 0.588 0.588
+Ke 0 0 0
+Ka 0 0 0
+Ks 0 0 0
+Ns 9
+Tr 0.2
+d 0.8
+Ni 1.5
+Tf 0.8 0.8 0.8
+map_Kd FirewoodBottlesRope.jpg
+map_Ka FirewoodBottlesRope.jpg
+
+newmtl Bottom_WoodTiling
+Kd 0.588 0.588 0.588
+Ke 0 0 0
+Ka 0 0 0
+Ks 0 0 0
+Ns 9
+Tr 0
+d 1
+Ni 1.5
+Tf 1 1 1
+map_Kd WoodTiling.jpg
+map_Ka WoodTiling.jpg
+
+newmtl BottomCabins
+Kd 0.588 0.588 0.588
+Ke 0 0 0
+Ka 0 0 0
+Ks 0 0 0
+Ns 9
+Tr 0
+d 1
+Ni 1.5
+Tf 1 1 1
+map_Kd CrateBarrelChimney.jpg
+map_Ka CrateBarrelChimney.jpg
+
+newmtl bell
+Kd 0.588 0.588 0.588
+Ke 0 0 0
+Ka 0 0 0
+Ks 0 0 0
+Ns 9
+Tr 0
+d 1
+Ni 1.5
+Tf 1 1 1
+map_Kd WoodTiling.jpg
+map_Ka WoodTiling.jpg
+
+newmtl CabinGlass
+Kd 0.588 0.588 0.588
+Ke 0 0 0
+Ka 0 0 0
+Ks 0 0 0
+Ns 9
+Tr 0
+d 1
+Ni 1.5
+Tf 1 1 1
+map_Kd WindowGlass.jpg
+map_Ka WindowGlass.jpg
+
+newmtl Chimney_PBolts
+Kd 0.588 0.588 0.588
+Ke 0 0 0
+Ka 0 0 0
+Ks 0 0 0
+Ns 9
+Tr 0
+d 1
+Ni 1.5
+Tf 1 1 1
+map_Kd CrateBarrelChimney.jpg
+map_Ka CrateBarrelChimney.jpg
+
+newmtl ClothesPipeWater
+Kd 0.588 0.588 0.588
+Ke 0 0 0
+Ka 0 0 0
+Ks 0 0 0
+Ns 9
+Tr 0
+d 1
+Ni 1.5
+Tf 1 1 1
+map_Kd ClothesPipeWaterf.jpg
+map_Ka ClothesPipeWaterf.jpg
+map_d ClothesPipeWater_Opacity.jpg
+
+newmtl CrateBarrel
+Kd 0.588 0.588 0.588
+Ke 0 0 0
+Ka 0 0 0
+Ks 0 0 0
+Ns 9
+Tr 0
+d 1
+Ni 1.5
+Tf 1 1 1
+map_Kd CrateBarrelChimney.jpg
+map_Ka CrateBarrelChimney.jpg
+
+newmtl DoorsAndDoorframes
+Kd 0.588 0.588 0.588
+Ke 0 0 0
+Ka 0 0 0
+Ks 0 0 0
+Ns 9
+Tr 0
+d 1
+Ni 1.5
+Tf 1 1 1
+map_Kd CrateBarrelChimney.jpg
+map_Ka CrateBarrelChimney.jpg
+
+newmtl FirewoodRope
+Kd 0.588 0.588 0.588
+Ke 0 0 0
+Ka 0 0 0
+Ks 0 0 0
+Ns 9
+Tr 0
+d 1
+Ni 1.5
+Tf 1 1 1
+map_Kd FirewoodBottlesRope.jpg
+map_Ka FirewoodBottlesRope.jpg
+
+newmtl Grass_base
+Kd 0.098039 0.701961 0
+Ke 0 0 0
+Ka 0 0 0
+Ks 0 0 0
+Ns 9
+Tr 0
+d 1
+Ni 1.5
+Tf 1 1 1
+map_Kd BaseGrass.jpg
+map_Ka BaseGrass.jpg
+
+newmtl Groundrocks
+Kd 0.588 0.588 0.588
+Ke 0 0 0
+Ka 0 0 0
+Ks 0 0 0
+Ns 9
+Tr 0
+d 1
+Ni 1.5
+Tf 1 1 1
+map_Kd StonesHighlight.jpg
+map_Ka StonesHighlight.jpg
+
+newmtl House_PlasterWall
+Kd 0.588 0.588 0.588
+Ke 0 0 0
+Ka 0 0 0
+Ks 0 0 0
+Ns 9
+Tr 0
+d 1
+Ni 1.5
+Tf 1 1 1
+map_Kd PlasterWallTiling.jpg
+map_Ka PlasterWallTiling.jpg
+
+newmtl House_Wood_tiling
+Kd 0.588 0.588 0.588
+Ke 0 0 0
+Ka 0 0 0
+Ks 0 0 0
+Ns 9
+Tr 0
+d 1
+Ni 1.5
+Tf 1 1 1
+map_Kd WoodTiling.jpg
+map_Ka WoodTiling.jpg
+
+newmtl PipeLantern
+Kd 0.588 0.588 0.588
+Ke 0 0 0
+Ka 0.588 0.588 0.588
+Ks 0 0 0
+Ns 9
+Tr 0
+d 1
+Ni 1.5
+Tf 1 1 1
+map_Kd ClothesPipeWaterf.jpg
+map_Ka ClothesPipeWaterf.jpg
+
+newmtl Platform_WoodTiling
+Kd 0.588 0.588 0.588
+Ke 0 0 0
+Ka 0 0 0
+Ks 0 0 0
+Ns 9
+Tr 0
+d 1
+Ni 1.5
+Tf 1 1 1
+map_Kd WoodTiling.jpg
+map_Ka WoodTiling.jpg
+
+newmtl RoofMaterial
+Kd 0.356863 0.035294 0.035294
+Ke 0 0 0
+Ka 0 0 0
+Ks 0 0 0
+Ns 9
+Tr 0
+d 1
+Ni 1.5
+Tf 1 1 1
+map_Kd andyrooftiles.jpg
+
+newmtl RoofMaterial2
+Kd 0.356863 0.035294 0.035294
+Ke 0 0 0
+Ka 0 0 0
+Ks 0 0 0
+Ns 9
+Tr 0
+d 1
+Ni 1.5
+Tf 1 1 1
+map_Kd andyrooftiles.jpg
+
+newmtl RoofTiles
+Kd 0.588 0.588 0.588
+Ke 0 0 0
+Ka 0 0 0
+Ks 0 0 0
+Ns 9
+Tr 0
+d 1
+Ni 1.5
+Tf 1 1 1
+map_Kd andyrooftiles.jpg
+map_Ka andyrooftiles.jpg
+
+newmtl Shed_PlasterWall
+Kd 0.588 0.588 0.588
+Ke 0 0 0
+Ka 0 0 0
+Ks 0 0 0
+Ns 9
+Tr 0
+d 1
+Ni 1.5
+Tf 1 1 1
+map_Kd PlasterWallTiling.jpg
+map_Ka PlasterWallTiling.jpg
+
+newmtl Shed_Wood_Tiling
+Kd 0.588 0.588 0.588
+Ke 0 0 0
+Ka 0 0 0
+Ks 0 0 0
+Ns 9
+Tr 0
+d 1
+Ni 1.5
+Tf 1 1 1
+map_Kd WoodTiling.jpg
+map_Ka WoodTiling.jpg
+
+newmtl ShedRoofTiles
+Kd 0.356863 0.035294 0.035294
+Ke 0 0 0
+Ka 0 0 0
+Ks 0 0 0
+Ns 9
+Tr 0
+d 1
+Ni 1.5
+Tf 1 1 1
+map_Kd andyrooftiles.jpg
+
+newmtl Smoke_Chimney_
+Kd 0.588 0.588 0.588
+Ke 0 0 0
+Ka 0 0 0
+Ks 0 0 0
+Ns 9
+Tr 0
+d 1
+Ni 1.5
+Tf 1 1 1
+map_Kd ChimneySmoke.jpg
+map_Ka ChimneySmoke.jpg
+map_d ChimneySmoke.jpg
+
+newmtl StonesChimney
+Kd 0.588 0.588 0.588
+Ke 0 0 0
+Ka 0 0 0
+Ks 0 0 0
+Ns 9
+Tr 0
+d 1
+Ni 1.5
+Tf 1 1 1
+map_Kd StoneWallTiling.jpg
+map_Ka StoneWallTiling.jpg
+
+newmtl stone_wall
+Kd 0.588 0.588 0.588
+Ke 0 0 0
+Ka 0 0 0
+Ks 0 0 0
+Ns 9
+Tr 0
+d 1
+Ni 1.5
+Tf 1 1 1
+map_Kd StoneWallTiling.jpg
+map_Ka StoneWallTiling.jpg
+
+newmtl Test_Wood
+Kd 0.588 0.588 0.588
+Ke 0 0 0
+Ka 0 0 0
+Ks 0 0 0
+Ns 9
+Tr 0
+d 1
+Ni 1.5
+Tf 1 1 1
+
+newmtl WindowGlass
+Kd 0.588 0.588 0.588
+Ke 0 0 0
+Ka 0 0 0
+Ks 0 0 0
+Ns 9
+Tr 0.5
+d 0.5
+Ni 1.5
+Tf 0.5 0.5 0.5
+map_Kd WindowGlass.jpg
+map_Ka WindowGlass.jpg
+
