@@ -1,0 +1,96 @@
+fileFormatVersion: 2
+guid: daa6fb2f57b0a2148b8847721a27db81
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 715df9372183c47e389bb6e19fbc3b52, type: 3}
+  editorImportSettings:
+    generateSecondaryUVSet: 0
+  importSettings:
+    nodeNameMethod: 1
+    animationMethod: 2
+    generateMipMaps: 1
+    defaultMinFilterMode: 9729
+    defaultMagFilterMode: 9729
+    anisotropicFilterLevel: 1
+  instantiationSettings:
+    mask: -1
+    layer: 0
+    skinUpdateWhenOffscreen: 1
+    lightIntensityFactor: 1
+    sceneObjectCreation: 2
+  assetDependencies:
+  - type: 0
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Giappone\scene.bin
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Giappone\scene.bin
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Giappone\textures\aiStandardSurface16SG_normal.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Giappone\textures\aiStandardSurface16SG_normal.png
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Giappone\textures\aiStandardSurface21SG_baseColor.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Giappone\textures\aiStandardSurface21SG_baseColor.png
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Giappone\textures\set1_baseColor.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Giappone\textures\set1_baseColor.png
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Giappone\textures\set1_metallicRoughness.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Giappone\textures\set1_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Giappone\textures\set1_normal.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Giappone\textures\set1_normal.png
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Giappone\textures\set10_baseColor.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Giappone\textures\set10_baseColor.png
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Giappone\textures\set10_metallicRoughness.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Giappone\textures\set10_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Giappone\textures\set10_normal.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Giappone\textures\set10_normal.png
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Giappone\textures\set12_baseColor.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Giappone\textures\set12_baseColor.png
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Giappone\textures\set12_metallicRoughness.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Giappone\textures\set12_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Giappone\textures\set12_normal.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Giappone\textures\set12_normal.png
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Giappone\textures\set13_baseColor.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Giappone\textures\set13_baseColor.png
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Giappone\textures\set13_metallicRoughness.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Giappone\textures\set13_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Giappone\textures\set13_normal.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Giappone\textures\set13_normal.png
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Giappone\textures\set14_baseColor.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Giappone\textures\set14_baseColor.png
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Giappone\textures\set14_metallicRoughness.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Giappone\textures\set14_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Giappone\textures\set14_normal.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Giappone\textures\set14_normal.png
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Giappone\textures\set8_baseColor.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Giappone\textures\set8_baseColor.png
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Giappone\textures\set8_metallicRoughness.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Giappone\textures\set8_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Giappone\textures\set9_baseColor.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Giappone\textures\set9_baseColor.png
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Giappone\textures\set9_metallicRoughness.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Giappone\textures\set9_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Giappone\textures\set9_normal.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Giappone\textures\set9_normal.png
+  reportItems: []

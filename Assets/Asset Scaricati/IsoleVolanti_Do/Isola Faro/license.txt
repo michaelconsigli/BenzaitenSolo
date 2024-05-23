@@ -1,0 +1,11 @@
+Model Information:
+* title:	Floating Lighthouse (unlit PBR version)
+* source:	https://sketchfab.com/3d-models/floating-lighthouse-unlit-pbr-version-3abb234dd5e24dc5b047691d2f8ea892
+* author:	Kathrin&Christian (https://sketchfab.com/extracrispi)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Floating Lighthouse (unlit PBR version)" (https://sketchfab.com/3d-models/floating-lighthouse-unlit-pbr-version-3abb234dd5e24dc5b047691d2f8ea892) by Kathrin&Christian (https://sketchfab.com/extracrispi) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

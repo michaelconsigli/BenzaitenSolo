@@ -1,0 +1,483 @@
+fileFormatVersion: 2
+guid: 27d3b40cae8731a40acb28cef37128b2
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 715df9372183c47e389bb6e19fbc3b52, type: 3}
+  editorImportSettings:
+    generateSecondaryUVSet: 0
+  importSettings:
+    nodeNameMethod: 1
+    animationMethod: 2
+    generateMipMaps: 1
+    defaultMinFilterMode: 9729
+    defaultMagFilterMode: 9729
+    anisotropicFilterLevel: 1
+  instantiationSettings:
+    mask: -1
+    layer: 0
+    skinUpdateWhenOffscreen: 1
+    lightIntensityFactor: 1
+    sceneObjectCreation: 2
+  assetDependencies:
+  - type: 0
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\scene.bin
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\scene.bin
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\artichoke_baseColor.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\artichoke_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\artichoke_metallicRoughness.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\artichoke_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\artichoke_normal.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\artichoke_normal.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\battery_baseColor.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\battery_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\battery_metallicRoughness.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\battery_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\battery_normal.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\battery_normal.png
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\bolts_baseColor.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\bolts_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\bolts_metallicRoughness.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\bolts_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\bolts_normal.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\bolts_normal.png
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\book_A_baseColor.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\book_A_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\book_A_metallicRoughness.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\book_A_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\book_A_normal.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\book_A_normal.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\book_B_baseColor.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\book_B_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\book_B_normal.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\book_B_normal.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\bucket_baseColor.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\bucket_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\bucket_metallicRoughness.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\bucket_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\bucket_normal.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\bucket_normal.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\cable_baseColor.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\cable_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\cable_metallicRoughness.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\cable_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\cable_normal.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\cable_normal.png
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\crates_baseColor.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\crates_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\crates_metallicRoughness.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\crates_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\crates_normal.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\crates_normal.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\curtain_baseColor.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\curtain_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\curtain_metallicRoughness.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\curtain_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\curtain_normal.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\curtain_normal.png
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\dome_baseColor.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\dome_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\dome_metallicRoughness.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\dome_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\dome_normal.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\dome_normal.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\floor_baseColor.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\floor_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\floor_metallicRoughness.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\floor_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\floor_normal.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\floor_normal.png
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\floors_baseColor.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\floors_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\floors_metallicRoughness.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\floors_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\floors_normal.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\floors_normal.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\flowerpot_baseColor.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\flowerpot_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\flowerpot_metallicRoughness.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\flowerpot_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\flowerpot_normal.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\flowerpot_normal.png
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\frames_baseColor.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\frames_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\frames_metallicRoughness.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\frames_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\frames_normal.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\frames_normal.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\ginger_baseColor.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\ginger_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\ginger_metallicRoughness.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\ginger_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\ginger_normal.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\ginger_normal.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\greenhouse_glass_baseColor.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\greenhouse_glass_baseColor.png
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\greenhouse_glass_metallicRoughness.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\greenhouse_glass_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\greenhouse_glass_normal.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\greenhouse_glass_normal.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\greenhouse_metal_baseColor.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\greenhouse_metal_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\greenhouse_metal_metallicRoughness.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\greenhouse_metal_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\greenhouse_metal_normal.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\greenhouse_metal_normal.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\greenhouse_metal_inside_metallicRoughness.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\greenhouse_metal_inside_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\greenhouse_metal_inside_normal.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\greenhouse_metal_inside_normal.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\klampe_baseColor.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\klampe_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\klampe_metallicRoughness.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\klampe_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\klampe_normal.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\klampe_normal.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\lamp_A_baseColor.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\lamp_A_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\lamp_A_metallicRoughness.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\lamp_A_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\lamp_A_emissive.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\lamp_A_emissive.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\lamp_A_normal.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\lamp_A_normal.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\lamp_B_baseColor.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\lamp_B_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\lamp_B_metallicRoughness.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\lamp_B_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\lamp_B_emissive.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\lamp_B_emissive.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\lamp_B_normal.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\lamp_B_normal.png
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\lantern_A_baseColor.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\lantern_A_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\lantern_A_metallicRoughness.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\lantern_A_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\lantern_A_normal.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\lantern_A_normal.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\lantern_B_baseColor.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\lantern_B_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\lantern_B_metallicRoughness.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\lantern_B_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\lantern_B_normal.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\lantern_B_normal.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\leaf_A_baseColor.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\leaf_A_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\leaf_A_normal.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\leaf_A_normal.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\leaf_B.001_baseColor.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\leaf_B.001_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\leaf_B.001_normal.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\leaf_B.001_normal.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\lighthouselamp_baseColor.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\lighthouselamp_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\lighthouselamp_metallicRoughness.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\lighthouselamp_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\lighthouselamp_emissive.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\lighthouselamp_emissive.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\lighthouselamp_normal.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\lighthouselamp_normal.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\log_A_baseColor.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\log_A_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\log_A_metallicRoughness.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\log_A_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\log_A_normal.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\log_A_normal.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\log_B_baseColor.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\log_B_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\log_B_metallicRoughness.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\log_B_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\log_B_normal.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\log_B_normal.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\mushroom_huge_A_baseColor.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\mushroom_huge_A_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\mushroom_huge_A_metallicRoughness.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\mushroom_huge_A_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\mushroom_huge_A_normal.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\mushroom_huge_A_normal.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\mushroom_medium_A_baseColor.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\mushroom_medium_A_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\mushroom_medium_A_metallicRoughness.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\mushroom_medium_A_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\mushroom_medium_A_normal.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\mushroom_medium_A_normal.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\mushroom_medium_B_baseColor.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\mushroom_medium_B_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\mushroom_medium_B_metallicRoughness.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\mushroom_medium_B_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\mushroom_medium_B_normal.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\mushroom_medium_B_normal.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\mushroom_medium_C_baseColor.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\mushroom_medium_C_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\mushroom_medium_C_metallicRoughness.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\mushroom_medium_C_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\mushroom_medium_C_normal.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\mushroom_medium_C_normal.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\mushroom_small_A_baseColor.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\mushroom_small_A_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\mushroom_small_A_metallicRoughness.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\mushroom_small_A_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\mushroom_small_A_normal.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\mushroom_small_A_normal.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\mushroom_small_C_baseColor.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\mushroom_small_C_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\mushroom_small_C_metallicRoughness.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\mushroom_small_C_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\mushroom_small_C_normal.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\mushroom_small_C_normal.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\mushroom_tiny_A_baseColor.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\mushroom_tiny_A_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\mushroom_tiny_A_metallicRoughness.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\mushroom_tiny_A_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\mushroom_tiny_A_normal.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\mushroom_tiny_A_normal.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\mushroom_tiny_C_baseColor.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\mushroom_tiny_C_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\mushroom_tiny_C_metallicRoughness.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\mushroom_tiny_C_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\mushroom_tiny_C_normal.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\mushroom_tiny_C_normal.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\platform_baseColor.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\platform_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\platform_metallicRoughness.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\platform_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\platform_normal.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\platform_normal.png
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\platform_up_baseColor.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\platform_up_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\platform_up_metallicRoughness.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\platform_up_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\platform_up_normal.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\platform_up_normal.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\rock_5_baseColor.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\rock_5_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\rock_5_metallicRoughness.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\rock_5_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\rock_5_normal.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\rock_5_normal.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\rocks_baseColor.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\rocks_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\rocks_metallicRoughness.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\rocks_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\rocks_normal.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\rocks_normal.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\sticks_A_baseColor.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\sticks_A_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\sticks_A_metallicRoughness.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\sticks_A_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\sticks_A_normal.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\sticks_A_normal.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\sticks_B_baseColor.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\sticks_B_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\sticks_B_metallicRoughness.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\sticks_B_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\sticks_B_normal.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\sticks_B_normal.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\sticks_C_baseColor.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\sticks_C_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\sticks_C_metallicRoughness.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\sticks_C_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\sticks_C_normal.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\sticks_C_normal.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\sticks_D_baseColor.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\sticks_D_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\sticks_D_metallicRoughness.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\sticks_D_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\sticks_D_normal.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\sticks_D_normal.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\stone_A_baseColor.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\stone_A_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\stone_A_metallicRoughness.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\stone_A_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\stone_A_normal.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\stone_A_normal.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\stone_B_baseColor.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\stone_B_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\stone_B_metallicRoughness.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\stone_B_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\stone_B_normal.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\stone_B_normal.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\stone_C_baseColor.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\stone_C_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\stone_C_metallicRoughness.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\stone_C_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\stone_C_normal.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\stone_C_normal.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\stone_D_baseColor.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\stone_D_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\stone_D_metallicRoughness.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\stone_D_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\stone_D_normal.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\stone_D_normal.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\stone_stairs_baseColor.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\stone_stairs_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\stone_stairs_metallicRoughness.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\stone_stairs_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\stone_stairs_normal.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\stone_stairs_normal.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\window_baseColor.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\window_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\window_metallicRoughness.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\window_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\window_normal.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\window_normal.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\wood_baseColor.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\wood_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\wood_normal.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Isola Faro\textures\wood_normal.jpeg
+  reportItems: []

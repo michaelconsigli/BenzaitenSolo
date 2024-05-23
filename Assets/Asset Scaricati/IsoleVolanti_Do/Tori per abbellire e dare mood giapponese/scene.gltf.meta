@@ -1,0 +1,92 @@
+fileFormatVersion: 2
+guid: 9ef4f80ea4d8b11479acdf8b7e4df8ed
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 715df9372183c47e389bb6e19fbc3b52, type: 3}
+  editorImportSettings:
+    generateSecondaryUVSet: 0
+  importSettings:
+    nodeNameMethod: 1
+    animationMethod: 2
+    generateMipMaps: 1
+    defaultMinFilterMode: 9729
+    defaultMagFilterMode: 9729
+    anisotropicFilterLevel: 1
+  instantiationSettings:
+    mask: -1
+    layer: 0
+    skinUpdateWhenOffscreen: 1
+    lightIntensityFactor: 1
+    sceneObjectCreation: 2
+  assetDependencies:
+  - type: 0
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Tori per abbellire e dare
+      mood giapponese\scene.bin
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Tori per abbellire e dare mood
+      giapponese\scene.bin
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Tori per abbellire e dare
+      mood giapponese\textures\material_0_baseColor.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Tori per abbellire e dare mood
+      giapponese\textures\material_0_baseColor.png
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Tori per abbellire e dare
+      mood giapponese\textures\RedWood_baseColor.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Tori per abbellire e dare mood
+      giapponese\textures\RedWood_baseColor.png
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Tori per abbellire e dare
+      mood giapponese\textures\Material.003_baseColor.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Tori per abbellire e dare mood
+      giapponese\textures\Material.003_baseColor.png
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Tori per abbellire e dare
+      mood giapponese\textures\Tiling_baseColor.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Tori per abbellire e dare mood
+      giapponese\textures\Tiling_baseColor.png
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Tori per abbellire e dare
+      mood giapponese\textures\roofbeam_baseColor.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Tori per abbellire e dare mood
+      giapponese\textures\roofbeam_baseColor.png
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Tori per abbellire e dare
+      mood giapponese\textures\roofring_baseColor.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Tori per abbellire e dare mood
+      giapponese\textures\roofring_baseColor.png
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Tori per abbellire e dare
+      mood giapponese\textures\material_baseColor.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Tori per abbellire e dare mood
+      giapponese\textures\material_baseColor.png
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Tori per abbellire e dare
+      mood giapponese\textures\Material.006_baseColor.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Tori per abbellire e dare mood
+      giapponese\textures\Material.006_baseColor.png
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Tori per abbellire e dare
+      mood giapponese\textures\Material.004_baseColor.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Tori per abbellire e dare mood
+      giapponese\textures\Material.004_baseColor.png
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Tori per abbellire e dare
+      mood giapponese\textures\Material_baseColor.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Tori per abbellire e dare mood
+      giapponese\textures\Material_baseColor.png
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Tori per abbellire e dare
+      mood giapponese\textures\Material.002_baseColor.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Tori per abbellire e dare mood
+      giapponese\textures\Material.002_baseColor.png
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\Tori per abbellire e dare
+      mood giapponese\textures\island1_baseColor.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\Tori per abbellire e dare mood
+      giapponese\textures\island1_baseColor.png
+  reportItems: []
