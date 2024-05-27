@@ -148,7 +148,7 @@ Shader "Lpk/LightModel/ToonLightBase"
                 
                 //shadow
                 float shadow = MainLightRealtimeShadow(input.shadowCoord);
-                
+
                 //rim
                 float rim = smoothstep((1-_RimStep) - _RimStepSmooth * 0.5, (1-_RimStep) + _RimStepSmooth * 0.5, 0.5 - NV);
                 

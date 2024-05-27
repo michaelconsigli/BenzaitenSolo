@@ -250,8 +250,8 @@
     ],
     "m_VertexContext": {
         "m_Position": {
-            "x": 2647.500244140625,
-            "y": -441.4998779296875
+            "x": 1971.4998779296875,
+            "y": -361.9999694824219
         },
         "m_Blocks": [
             {
@@ -267,8 +267,8 @@
     },
     "m_FragmentContext": {
         "m_Position": {
-            "x": 2647.500244140625,
-            "y": -182.0001220703125
+            "x": 1971.4998779296875,
+            "y": -102.49996185302735
         },
         "m_Blocks": [
             {
@@ -1474,7 +1474,7 @@
     "m_Hidden": false,
     "m_ShaderOutputName": "Power",
     "m_StageCapability": 3,
-    "m_Value": 1.1299999952316285,
+    "m_Value": 0.23000000417232514,
     "m_DefaultValue": 1.0,
     "m_Labels": []
 }
