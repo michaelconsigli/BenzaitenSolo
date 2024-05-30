@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2271280030857671586
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1499388111560763672}
+  - component: {fileID: 325887926608728688}
+  m_Layer: 0
+  m_Name: PredatorV1
+  m_TagString: Depredador
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1499388111560763672
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2271280030857671586}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4198538712498357216}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &325887926608728688
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2271280030857671586}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7e1cc05f7bbfcb14aba9d37fce100429, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _maxSpeed: 8
+  _maxSpeedDefault: 5
+  _maxRotation: 360
+  _maxAcceleration: 15
+  _maxAccelerationDefault: 15
+  _maxAngularAcc: 60
+  anchura: 1.5
+  alturaEnEscena: 1
+  _speed: 0
+  _orientation: 0
+  distanciaDeVision: 21
+  anguloVision: 120
+  numBigotesWallAvoidance: 3
+  _interiorRadius: 1
+  _arrivalRadius: 3
+  _interiorAngle: 3
+  _exteriorAngle: 20
+  esVirtual: 0
+  steer:
+    angular: 0
+    linear: {x: 0, y: 0, z: 0}
+  factorDesaceleracion: 0.98
+  factorDesaceleracionAngular: 0.7
+  arbitro: {fileID: 0}
+  nodoActual: {fileID: 0}
+  nodoObjetivo: {fileID: 0}
+--- !u!1 &4198538712498357223
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4198538712498357216}
+  m_Layer: 0
+  m_Name: Predator
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4198538712498357216
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4198538712498357223}
+  m_LocalRotation: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
+  m_LocalPosition: {x: 54.737114, y: 0.63940334, z: -8.724828}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1499388111560763672}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 90, z: 0}
