@@ -3,7 +3,147 @@ guid: 1cfceb67344ad524b86dbcbe134320d1
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Balloon
+    second: {fileID: 2100000, guid: b5a22da3110b724409f402f7136a5b3f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bottles
+    second: {fileID: 2100000, guid: 3a9a67fb7a50b7c4fb4a3da21da8ac29, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BottomCabins
+    second: {fileID: 2100000, guid: 16b8c36bc4d43a04ebe3743e45a1638d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bottom_WoodTiling
+    second: {fileID: 2100000, guid: 73fa6702d5d15f744b013fd787e98922, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CabinGlass
+    second: {fileID: 2100000, guid: a187e5ff33b2f574cbe003a58e9ea0be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chimney_PBolts
+    second: {fileID: 2100000, guid: a209cf046faf5684f8bba0cc5de4a635, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ClothesPipeWater
+    second: {fileID: 2100000, guid: da35a9046c7cb6e40a49ccf7d8e9b80c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CrateBarrel
+    second: {fileID: 2100000, guid: d8a403c2497a5e94fa4f3fc20e90d1f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DoorsAndDoorframes
+    second: {fileID: 2100000, guid: f0fca6cafc2b23044852b779270da3a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FirewoodRope
+    second: {fileID: 2100000, guid: c06933eaa74029346a4e4ac0e4713f4d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grass_base
+    second: {fileID: 2100000, guid: 1616f7f5e3e251a4e930044eccffc035, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Groundrocks
+    second: {fileID: 2100000, guid: 99915c211cc86da4094041bfef4b2914, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House_PlasterWall
+    second: {fileID: 2100000, guid: 4dcb66bbc673ae44f86d57e9f9374bee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House_Wood_tiling
+    second: {fileID: 2100000, guid: 4f444c1a5eede0445b7e6664c45f82c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PipeLantern
+    second: {fileID: 2100000, guid: 56cd3c19d852b2345b156ae662393b87, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Platform_WoodTiling
+    second: {fileID: 2100000, guid: 1804277eaffa62948a2fa53c20be16e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RoofMaterial
+    second: {fileID: 2100000, guid: 8757c89cd88bf5745b1629e23f63a678, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RoofMaterial2
+    second: {fileID: 2100000, guid: 0bd7bdb26f9745347a2f52e72dbfa3bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RoofTiles
+    second: {fileID: 2100000, guid: 7fe767d1cddb59942877e140a8f5c967, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ShedRoofTiles
+    second: {fileID: 2100000, guid: a88d2c5154e92414e9689d76f60e8cf4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shed_PlasterWall
+    second: {fileID: 2100000, guid: 89ce2b56007f26c40ab90793e24a2d82, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shed_Wood_Tiling
+    second: {fileID: 2100000, guid: 7f7833f1e4d36e449ad4c253847c1ed2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Smoke_Chimney_
+    second: {fileID: 2100000, guid: 669d85a3f824c6e41a0d202f6c187ef5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: StonesChimney
+    second: {fileID: 2100000, guid: 4841c406d4454234eaf82bc1ffe3fbfe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Test_Wood
+    second: {fileID: 2100000, guid: 84087116fe1092740917ea77d8fdc38b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WindowGlass
+    second: {fileID: 2100000, guid: 44e7b616861d4c246946185ca8a10beb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bell
+    second: {fileID: 2100000, guid: 19b9796f6855c204fb5d45ee6b33cf7d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stone_wall
+    second: {fileID: 2100000, guid: bf7af85d6308be24191017d49e1808d2, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

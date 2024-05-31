@@ -3,7 +3,92 @@ guid: a46d7238c51d181478706551f41d4eb5
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fire
+    second: {fileID: 2100000, guid: 8773f607d837ee94ab652ce095801bc2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grass
+    second: {fileID: 2100000, guid: e8e5462fb3ec328409e98df6b19b2ade, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MB_Rocks_lambert2
+    second: {fileID: 2100000, guid: 1805f7889be61be419abb8a9c6b37452, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MapleLeaves_lambert2
+    second: {fileID: 2100000, guid: 13ba3876a04dca7428d97923dea16835, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RopeBridge
+    second: {fileID: 2100000, guid: 8336b9a9ca55951498ff08ed6e31bb79, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SM_Tree_4_MapleLeaves_lambert2
+    second: {fileID: 2100000, guid: 750e00b391817b247af484ccc89e9ac1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SM_Tree_4_lambert2
+    second: {fileID: 2100000, guid: 9b1d57ed9a4bdd542b1e755c4b72980b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SteppingStone
+    second: {fileID: 2100000, guid: fd112af5db6244d4d9515f2bd1b6f37c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Water
+    second: {fileID: 2100000, guid: 42f6a79e50471cb4e9104b6a45cedf55, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Waterfall
+    second: {fileID: 2100000, guid: b6a99052f5fcb624a88fd346be6c332c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood
+    second: {fileID: 2100000, guid: 04cf6fb1b25159e4fbb1bf43e8f6f74b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 7c1589073b5e89c46bb0a1c2a1eba7e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert12
+    second: {fileID: 2100000, guid: afa74a4ce5e200f47b4e38fd27bbbefb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert13
+    second: {fileID: 2100000, guid: 14e0ac1a04e29e94faaa66d54aff94b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert14
+    second: {fileID: 2100000, guid: 491714177b4ea7c4bbebf7d63d615be3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert15
+    second: {fileID: 2100000, guid: 5985b9a04458ee54f852670c75500269, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__lambert12
+    second: {fileID: 2100000, guid: 1540f8ad2c4701c498cab933f802f736, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
