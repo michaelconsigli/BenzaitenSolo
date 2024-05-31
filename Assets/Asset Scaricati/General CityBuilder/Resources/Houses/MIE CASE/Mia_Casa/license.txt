@@ -1,0 +1,11 @@
+Model Information:
+* title:	Japanese low poly building
+* source:	https://sketchfab.com/3d-models/japanese-low-poly-building-782403f71c8b48bc878e28c19dd8d20d
+* author:	NemerionRae (https://sketchfab.com/NemerionRae)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Japanese low poly building" (https://sketchfab.com/3d-models/japanese-low-poly-building-782403f71c8b48bc878e28c19dd8d20d) by NemerionRae (https://sketchfab.com/NemerionRae) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
