@@ -2609,14 +2609,26 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: -7262019025577209526, guid: daa6fb2f57b0a2148b8847721a27db81, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 60fa8b7bf27385a4f96ab92aae5c9e29, type: 2}
     - target: {fileID: -6689036041284674117, guid: daa6fb2f57b0a2148b8847721a27db81, type: 3}
       propertyPath: m_Name
       value: IsolaGiappone
       objectReference: {fileID: 0}
+    - target: {fileID: -5433080763469590225, guid: daa6fb2f57b0a2148b8847721a27db81, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 2877552f4fa7d8d43b928d34ec5e18a3, type: 2}
     - target: {fileID: -1092058028036176426, guid: daa6fb2f57b0a2148b8847721a27db81, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 460018274f3967f4dafac87ee16a63cf, type: 2}
+    - target: {fileID: -809295967220094657, guid: daa6fb2f57b0a2148b8847721a27db81, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 3948873167bedac4593ff5b46e99fd6f, type: 2}
     - target: {fileID: 1271607018809331135, guid: daa6fb2f57b0a2148b8847721a27db81, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
@@ -2677,6 +2689,10 @@ PrefabInstance:
       propertyPath: m_ConstrainProportionsScale
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 4963130961329970892, guid: daa6fb2f57b0a2148b8847721a27db81, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 60fa8b7bf27385a4f96ab92aae5c9e29, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
