@@ -4,5 +4,17 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/QUARTIERE_DO/City_Do_Totale.unity
+    guid: 9e756478ba80df54492bf7f56b202372
+  - enabled: 1
+    path: Assets/Scenes/QUARTIERE_DO/Chunk Do/City_Do_Est.unity
+    guid: d47dbe5dd1ca94349b7077b00a93e065
+  - enabled: 1
+    path: Assets/Scenes/QUARTIERE_DO/Chunk Do/City_Do_Nord.unity
+    guid: fe2a4e4e221c48344a8f76c55131bde3
+  - enabled: 1
+    path: Assets/Scenes/QUARTIERE_DO/Chunk Do/City_Do_Sud.unity
+    guid: 816d719b9dcdf7f4cbca9495acaa86d2
   m_configObjects: {}
