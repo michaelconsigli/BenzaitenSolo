@@ -13,7 +13,7 @@ public class SceneLoader : MonoBehaviour
     private Dictionary<Vector2, string> scenes = new Dictionary<Vector2, string>
     {
         { new Vector2(0, 0), "City_Do_Est" },
-        { new Vector2(1, 0), "City_Do_Nord" },
+        { new Vector2(1,0), "City_Do_Nord" },
         { new Vector2(0, 1), "City_Do_Sud" },
         //{ new Vector2(1, 0), "City_Do_Mare" },
         //{ new Vector2(1, 0), "City_Do_Lago" }
