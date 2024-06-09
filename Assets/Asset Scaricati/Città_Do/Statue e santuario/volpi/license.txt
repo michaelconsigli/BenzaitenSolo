@@ -1,0 +1,11 @@
+Model Information:
+* title:	Statue of 2 kitsune at SAGA, KYOTO
+* source:	https://sketchfab.com/3d-models/statue-of-2-kitsune-at-saga-kyoto-2e6fb9a8f0ec48c1bc726c2e51b28b2e
+* author:	Yu (https://sketchfab.com/FFT_kedar)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Statue of 2 kitsune at SAGA, KYOTO" (https://sketchfab.com/3d-models/statue-of-2-kitsune-at-saga-kyoto-2e6fb9a8f0ec48c1bc726c2e51b28b2e) by Yu (https://sketchfab.com/FFT_kedar) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
