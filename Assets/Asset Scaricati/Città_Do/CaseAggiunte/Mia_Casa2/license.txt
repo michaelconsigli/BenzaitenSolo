@@ -1,0 +1,11 @@
+Model Information:
+* title:	Cute Japanese house
+* source:	https://sketchfab.com/3d-models/cute-japanese-house-b5e32383e53741deb47b194786b557d5
+* author:	littlehustler (https://sketchfab.com/littlehustler)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Cute Japanese house" (https://sketchfab.com/3d-models/cute-japanese-house-b5e32383e53741deb47b194786b557d5) by littlehustler (https://sketchfab.com/littlehustler) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
