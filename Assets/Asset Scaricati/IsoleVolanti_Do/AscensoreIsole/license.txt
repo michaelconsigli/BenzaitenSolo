@@ -1,0 +1,11 @@
+Model Information:
+* title:	Stone Platform
+* source:	https://sketchfab.com/3d-models/stone-platform-1d233ef787684a22a4d53868263b7005
+* author:	filthycent (https://sketchfab.com/filthycent)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Stone Platform" (https://sketchfab.com/3d-models/stone-platform-1d233ef787684a22a4d53868263b7005) by filthycent (https://sketchfab.com/filthycent) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

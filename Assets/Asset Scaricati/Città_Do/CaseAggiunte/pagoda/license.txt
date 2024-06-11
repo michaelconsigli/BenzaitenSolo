@@ -1,0 +1,11 @@
+Model Information:
+* title:	Pagoda
+* source:	https://sketchfab.com/3d-models/pagoda-b8c35388ecd443178c24a5e5cb4c972c
+* author:	Juoda (https://sketchfab.com/Juoda)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Pagoda" (https://sketchfab.com/3d-models/pagoda-b8c35388ecd443178c24a5e5cb4c972c) by Juoda (https://sketchfab.com/Juoda) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
