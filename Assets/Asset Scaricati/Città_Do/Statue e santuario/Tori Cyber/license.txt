@@ -1,0 +1,11 @@
+Model Information:
+* title:	Cyberpunk Torii Gate
+* source:	https://sketchfab.com/3d-models/cyberpunk-torii-gate-e566e56d4bf0450eba2e20d6a2a9fd3b
+* author:	Julio Cesar (https://sketchfab.com/juliolxn)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Cyberpunk Torii Gate" (https://sketchfab.com/3d-models/cyberpunk-torii-gate-e566e56d4bf0450eba2e20d6a2a9fd3b) by Julio Cesar (https://sketchfab.com/juliolxn) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

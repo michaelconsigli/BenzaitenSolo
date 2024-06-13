@@ -1,0 +1,11 @@
+Model Information:
+* title:	Japanese Market Stall
+* source:	https://sketchfab.com/3d-models/japanese-market-stall-97769dd30dec4a7ea3f9644d15807326
+* author:	Fadema (https://sketchfab.com/francktawema)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Japanese Market Stall" (https://sketchfab.com/3d-models/japanese-market-stall-97769dd30dec4a7ea3f9644d15807326) by Fadema (https://sketchfab.com/francktawema) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

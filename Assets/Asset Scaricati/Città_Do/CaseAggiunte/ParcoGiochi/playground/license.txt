@@ -1,0 +1,11 @@
+Model Information:
+* title:	Playground
+* source:	https://sketchfab.com/3d-models/playground-978e37e58b2e4b3c882bc3366652b38b
+* author:	AntonYurevich (https://sketchfab.com/antonyurevich)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Playground" (https://sketchfab.com/3d-models/playground-978e37e58b2e4b3c882bc3366652b38b) by AntonYurevich (https://sketchfab.com/antonyurevich) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
