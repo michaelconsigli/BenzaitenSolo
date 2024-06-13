@@ -1,0 +1,141 @@
+fileFormatVersion: 2
+guid: 8d748e025cfac3e46b003cd13f36cd1a
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 715df9372183c47e389bb6e19fbc3b52, type: 3}
+  editorImportSettings:
+    generateSecondaryUVSet: 0
+  importSettings:
+    nodeNameMethod: 1
+    animationMethod: 2
+    generateMipMaps: 1
+    defaultMinFilterMode: 9729
+    defaultMagFilterMode: 9729
+    anisotropicFilterLevel: 1
+  instantiationSettings:
+    mask: -1
+    layer: 0
+    skinUpdateWhenOffscreen: 1
+    lightIntensityFactor: 1
+    sceneObjectCreation: 2
+  assetDependencies:
+  - type: 0
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\floating_island\scene.bin
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\floating_island\scene.bin
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\floating_island\textures\SupportBeam_texture_set_baseColor.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\floating_island\textures\SupportBeam_texture_set_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\floating_island\textures\SupportBeam_texture_set_metallicRoughness.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\floating_island\textures\SupportBeam_texture_set_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\floating_island\textures\SupportBeam_texture_set_normal.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\floating_island\textures\SupportBeam_texture_set_normal.png
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\floating_island\textures\Rope_texture_set_baseColor.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\floating_island\textures\Rope_texture_set_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\floating_island\textures\Rope_texture_set_metallicRoughness.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\floating_island\textures\Rope_texture_set_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\floating_island\textures\Rope_texture_set_normal.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\floating_island\textures\Rope_texture_set_normal.png
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\floating_island\textures\Platform_texture_set_baseColor.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\floating_island\textures\Platform_texture_set_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\floating_island\textures\Platform_texture_set_metallicRoughness.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\floating_island\textures\Platform_texture_set_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\floating_island\textures\Platform_texture_set_normal.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\floating_island\textures\Platform_texture_set_normal.png
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\floating_island\textures\Wood_texture_set_baseColor.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\floating_island\textures\Wood_texture_set_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\floating_island\textures\Wood_texture_set_metallicRoughness.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\floating_island\textures\Wood_texture_set_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\floating_island\textures\Wood_texture_set_normal.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\floating_island\textures\Wood_texture_set_normal.png
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\floating_island\textures\Grass_2_baseColor.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\floating_island\textures\Grass_2_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\floating_island\textures\Grass_2_metallicRoughness.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\floating_island\textures\Grass_2_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\floating_island\textures\Merchant_island1_baseColor.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\floating_island\textures\Merchant_island1_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\floating_island\textures\Merchant_island1_metallicRoughness.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\floating_island\textures\Merchant_island1_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\floating_island\textures\Merchant_island1_emissive.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\floating_island\textures\Merchant_island1_emissive.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\floating_island\textures\Merchant_island1_normal.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\floating_island\textures\Merchant_island1_normal.png
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\floating_island\textures\Mechanic_island1_baseColor.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\floating_island\textures\Mechanic_island1_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\floating_island\textures\Mechanic_island1_metallicRoughness.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\floating_island\textures\Mechanic_island1_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\floating_island\textures\Mechanic_island1_emissive.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\floating_island\textures\Mechanic_island1_emissive.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\floating_island\textures\Mechanic_island1_normal.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\floating_island\textures\Mechanic_island1_normal.png
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\floating_island\textures\Grass_3_baseColor.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\floating_island\textures\Grass_3_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\floating_island\textures\Grass_3_metallicRoughness.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\floating_island\textures\Grass_3_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\floating_island\textures\Side_island_baseColor.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\floating_island\textures\Side_island_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\floating_island\textures\Side_island_metallicRoughness.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\floating_island\textures\Side_island_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\floating_island\textures\Side_island_emissive.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\floating_island\textures\Side_island_emissive.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\floating_island\textures\Side_island_normal.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\floating_island\textures\Side_island_normal.png
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\floating_island\textures\Grass_4_baseColor.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\floating_island\textures\Grass_4_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\floating_island\textures\Grass_4_metallicRoughness.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\floating_island\textures\Grass_4_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\floating_island\textures\Main_island_1_baseColor.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\floating_island\textures\Main_island_1_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\floating_island\textures\Main_island_1_metallicRoughness.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\floating_island\textures\Main_island_1_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\floating_island\textures\Main_island_1_emissive.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\floating_island\textures\Main_island_1_emissive.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\floating_island\textures\Main_island_1_normal.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\floating_island\textures\Main_island_1_normal.png
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\floating_island\textures\Grass_baseColor.jpeg
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\floating_island\textures\Grass_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\floating_island\textures\Grass_metallicRoughness.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\floating_island\textures\Grass_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Asset Scaricati\IsoleVolanti_Do\floating_island\textures\Grass_normal.png
+    assetPath: Assets\Asset Scaricati\IsoleVolanti_Do\floating_island\textures\Grass_normal.png
+  reportItems: []
