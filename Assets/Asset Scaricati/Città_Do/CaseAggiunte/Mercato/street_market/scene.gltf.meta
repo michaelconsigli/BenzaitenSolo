@@ -1,0 +1,151 @@
+fileFormatVersion: 2
+guid: 6581ea017cabcfc4cb292d71cc67c787
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 715df9372183c47e389bb6e19fbc3b52, type: 3}
+  editorImportSettings:
+    generateSecondaryUVSet: 0
+  importSettings:
+    nodeNameMethod: 1
+    animationMethod: 2
+    generateMipMaps: 1
+    defaultMinFilterMode: 9729
+    defaultMagFilterMode: 9729
+    anisotropicFilterLevel: 1
+  instantiationSettings:
+    mask: -1
+    layer: 0
+    skinUpdateWhenOffscreen: 1
+    lightIntensityFactor: 1
+    sceneObjectCreation: 2
+  assetDependencies:
+  - type: 0
+    originalUri: "Assets\\Asset Scaricati\\Citt\xE0_Do\\CaseAggiunte\\Mercato\\street_market\\scene.bin"
+    assetPath: "Assets\\Asset Scaricati\\Citt\xE0_Do\\CaseAggiunte\\Mercato\\street_market\\scene.bin"
+  - type: 1
+    originalUri: "Assets\\Asset Scaricati\\Citt\xE0_Do\\CaseAggiunte\\Mercato\\street_market\\textures\\base_baseColor.png"
+    assetPath: "Assets\\Asset Scaricati\\Citt\xE0_Do\\CaseAggiunte\\Mercato\\street_market\\textures\\base_baseColor.png"
+  - type: 1
+    originalUri: "Assets\\Asset Scaricati\\Citt\xE0_Do\\CaseAggiunte\\Mercato\\street_market\\textures\\base_metallicRoughness.png"
+    assetPath: "Assets\\Asset Scaricati\\Citt\xE0_Do\\CaseAggiunte\\Mercato\\street_market\\textures\\base_metallicRoughness.png"
+  - type: 1
+    originalUri: "Assets\\Asset Scaricati\\Citt\xE0_Do\\CaseAggiunte\\Mercato\\street_market\\textures\\base_normal.png"
+    assetPath: "Assets\\Asset Scaricati\\Citt\xE0_Do\\CaseAggiunte\\Mercato\\street_market\\textures\\base_normal.png"
+  - type: 1
+    originalUri: "Assets\\Asset Scaricati\\Citt\xE0_Do\\CaseAggiunte\\Mercato\\street_market\\textures\\material_baseColor.png"
+    assetPath: "Assets\\Asset Scaricati\\Citt\xE0_Do\\CaseAggiunte\\Mercato\\street_market\\textures\\material_baseColor.png"
+  - type: 1
+    originalUri: "Assets\\Asset Scaricati\\Citt\xE0_Do\\CaseAggiunte\\Mercato\\street_market\\textures\\material_metallicRoughness.png"
+    assetPath: "Assets\\Asset Scaricati\\Citt\xE0_Do\\CaseAggiunte\\Mercato\\street_market\\textures\\material_metallicRoughness.png"
+  - type: 1
+    originalUri: "Assets\\Asset Scaricati\\Citt\xE0_Do\\CaseAggiunte\\Mercato\\street_market\\textures\\material_normal.png"
+    assetPath: "Assets\\Asset Scaricati\\Citt\xE0_Do\\CaseAggiunte\\Mercato\\street_market\\textures\\material_normal.png"
+  - type: 1
+    originalUri: "Assets\\Asset Scaricati\\Citt\xE0_Do\\CaseAggiunte\\Mercato\\street_market\\textures\\basket_baseColor.png"
+    assetPath: "Assets\\Asset Scaricati\\Citt\xE0_Do\\CaseAggiunte\\Mercato\\street_market\\textures\\basket_baseColor.png"
+  - type: 1
+    originalUri: "Assets\\Asset Scaricati\\Citt\xE0_Do\\CaseAggiunte\\Mercato\\street_market\\textures\\basket_metallicRoughness.png"
+    assetPath: "Assets\\Asset Scaricati\\Citt\xE0_Do\\CaseAggiunte\\Mercato\\street_market\\textures\\basket_metallicRoughness.png"
+  - type: 1
+    originalUri: "Assets\\Asset Scaricati\\Citt\xE0_Do\\CaseAggiunte\\Mercato\\street_market\\textures\\basket_normal.png"
+    assetPath: "Assets\\Asset Scaricati\\Citt\xE0_Do\\CaseAggiunte\\Mercato\\street_market\\textures\\basket_normal.png"
+  - type: 1
+    originalUri: "Assets\\Asset Scaricati\\Citt\xE0_Do\\CaseAggiunte\\Mercato\\street_market\\textures\\book_baseColor.png"
+    assetPath: "Assets\\Asset Scaricati\\Citt\xE0_Do\\CaseAggiunte\\Mercato\\street_market\\textures\\book_baseColor.png"
+  - type: 1
+    originalUri: "Assets\\Asset Scaricati\\Citt\xE0_Do\\CaseAggiunte\\Mercato\\street_market\\textures\\book_metallicRoughness.png"
+    assetPath: "Assets\\Asset Scaricati\\Citt\xE0_Do\\CaseAggiunte\\Mercato\\street_market\\textures\\book_metallicRoughness.png"
+  - type: 1
+    originalUri: "Assets\\Asset Scaricati\\Citt\xE0_Do\\CaseAggiunte\\Mercato\\street_market\\textures\\book_normal.png"
+    assetPath: "Assets\\Asset Scaricati\\Citt\xE0_Do\\CaseAggiunte\\Mercato\\street_market\\textures\\book_normal.png"
+  - type: 1
+    originalUri: "Assets\\Asset Scaricati\\Citt\xE0_Do\\CaseAggiunte\\Mercato\\street_market\\textures\\bottles_baseColor.png"
+    assetPath: "Assets\\Asset Scaricati\\Citt\xE0_Do\\CaseAggiunte\\Mercato\\street_market\\textures\\bottles_baseColor.png"
+  - type: 1
+    originalUri: "Assets\\Asset Scaricati\\Citt\xE0_Do\\CaseAggiunte\\Mercato\\street_market\\textures\\bottles_metallicRoughness.png"
+    assetPath: "Assets\\Asset Scaricati\\Citt\xE0_Do\\CaseAggiunte\\Mercato\\street_market\\textures\\bottles_metallicRoughness.png"
+  - type: 1
+    originalUri: "Assets\\Asset Scaricati\\Citt\xE0_Do\\CaseAggiunte\\Mercato\\street_market\\textures\\bottles_normal.png"
+    assetPath: "Assets\\Asset Scaricati\\Citt\xE0_Do\\CaseAggiunte\\Mercato\\street_market\\textures\\bottles_normal.png"
+  - type: 1
+    originalUri: "Assets\\Asset Scaricati\\Citt\xE0_Do\\CaseAggiunte\\Mercato\\street_market\\textures\\chest_baseColor.png"
+    assetPath: "Assets\\Asset Scaricati\\Citt\xE0_Do\\CaseAggiunte\\Mercato\\street_market\\textures\\chest_baseColor.png"
+  - type: 1
+    originalUri: "Assets\\Asset Scaricati\\Citt\xE0_Do\\CaseAggiunte\\Mercato\\street_market\\textures\\chest_metallicRoughness.png"
+    assetPath: "Assets\\Asset Scaricati\\Citt\xE0_Do\\CaseAggiunte\\Mercato\\street_market\\textures\\chest_metallicRoughness.png"
+  - type: 1
+    originalUri: "Assets\\Asset Scaricati\\Citt\xE0_Do\\CaseAggiunte\\Mercato\\street_market\\textures\\chest_normal.png"
+    assetPath: "Assets\\Asset Scaricati\\Citt\xE0_Do\\CaseAggiunte\\Mercato\\street_market\\textures\\chest_normal.png"
+  - type: 1
+    originalUri: "Assets\\Asset Scaricati\\Citt\xE0_Do\\CaseAggiunte\\Mercato\\street_market\\textures\\cloth_baseColor.png"
+    assetPath: "Assets\\Asset Scaricati\\Citt\xE0_Do\\CaseAggiunte\\Mercato\\street_market\\textures\\cloth_baseColor.png"
+  - type: 1
+    originalUri: "Assets\\Asset Scaricati\\Citt\xE0_Do\\CaseAggiunte\\Mercato\\street_market\\textures\\cloth_metallicRoughness.png"
+    assetPath: "Assets\\Asset Scaricati\\Citt\xE0_Do\\CaseAggiunte\\Mercato\\street_market\\textures\\cloth_metallicRoughness.png"
+  - type: 1
+    originalUri: "Assets\\Asset Scaricati\\Citt\xE0_Do\\CaseAggiunte\\Mercato\\street_market\\textures\\cloth_normal.png"
+    assetPath: "Assets\\Asset Scaricati\\Citt\xE0_Do\\CaseAggiunte\\Mercato\\street_market\\textures\\cloth_normal.png"
+  - type: 1
+    originalUri: "Assets\\Asset Scaricati\\Citt\xE0_Do\\CaseAggiunte\\Mercato\\street_market\\textures\\coffee_baseColor.png"
+    assetPath: "Assets\\Asset Scaricati\\Citt\xE0_Do\\CaseAggiunte\\Mercato\\street_market\\textures\\coffee_baseColor.png"
+  - type: 1
+    originalUri: "Assets\\Asset Scaricati\\Citt\xE0_Do\\CaseAggiunte\\Mercato\\street_market\\textures\\coffee_metallicRoughness.png"
+    assetPath: "Assets\\Asset Scaricati\\Citt\xE0_Do\\CaseAggiunte\\Mercato\\street_market\\textures\\coffee_metallicRoughness.png"
+  - type: 1
+    originalUri: "Assets\\Asset Scaricati\\Citt\xE0_Do\\CaseAggiunte\\Mercato\\street_market\\textures\\coffee_normal.png"
+    assetPath: "Assets\\Asset Scaricati\\Citt\xE0_Do\\CaseAggiunte\\Mercato\\street_market\\textures\\coffee_normal.png"
+  - type: 1
+    originalUri: "Assets\\Asset Scaricati\\Citt\xE0_Do\\CaseAggiunte\\Mercato\\street_market\\textures\\barrel_baseColor.png"
+    assetPath: "Assets\\Asset Scaricati\\Citt\xE0_Do\\CaseAggiunte\\Mercato\\street_market\\textures\\barrel_baseColor.png"
+  - type: 1
+    originalUri: "Assets\\Asset Scaricati\\Citt\xE0_Do\\CaseAggiunte\\Mercato\\street_market\\textures\\barrel_metallicRoughness.png"
+    assetPath: "Assets\\Asset Scaricati\\Citt\xE0_Do\\CaseAggiunte\\Mercato\\street_market\\textures\\barrel_metallicRoughness.png"
+  - type: 1
+    originalUri: "Assets\\Asset Scaricati\\Citt\xE0_Do\\CaseAggiunte\\Mercato\\street_market\\textures\\barrel_normal.png"
+    assetPath: "Assets\\Asset Scaricati\\Citt\xE0_Do\\CaseAggiunte\\Mercato\\street_market\\textures\\barrel_normal.png"
+  - type: 1
+    originalUri: "Assets\\Asset Scaricati\\Citt\xE0_Do\\CaseAggiunte\\Mercato\\street_market\\textures\\fruits_baseColor.png"
+    assetPath: "Assets\\Asset Scaricati\\Citt\xE0_Do\\CaseAggiunte\\Mercato\\street_market\\textures\\fruits_baseColor.png"
+  - type: 1
+    originalUri: "Assets\\Asset Scaricati\\Citt\xE0_Do\\CaseAggiunte\\Mercato\\street_market\\textures\\fruits_metallicRoughness.png"
+    assetPath: "Assets\\Asset Scaricati\\Citt\xE0_Do\\CaseAggiunte\\Mercato\\street_market\\textures\\fruits_metallicRoughness.png"
+  - type: 1
+    originalUri: "Assets\\Asset Scaricati\\Citt\xE0_Do\\CaseAggiunte\\Mercato\\street_market\\textures\\fruits_normal.png"
+    assetPath: "Assets\\Asset Scaricati\\Citt\xE0_Do\\CaseAggiunte\\Mercato\\street_market\\textures\\fruits_normal.png"
+  - type: 1
+    originalUri: "Assets\\Asset Scaricati\\Citt\xE0_Do\\CaseAggiunte\\Mercato\\street_market\\textures\\lantern_baseColor.png"
+    assetPath: "Assets\\Asset Scaricati\\Citt\xE0_Do\\CaseAggiunte\\Mercato\\street_market\\textures\\lantern_baseColor.png"
+  - type: 1
+    originalUri: "Assets\\Asset Scaricati\\Citt\xE0_Do\\CaseAggiunte\\Mercato\\street_market\\textures\\lantern_metallicRoughness.png"
+    assetPath: "Assets\\Asset Scaricati\\Citt\xE0_Do\\CaseAggiunte\\Mercato\\street_market\\textures\\lantern_metallicRoughness.png"
+  - type: 1
+    originalUri: "Assets\\Asset Scaricati\\Citt\xE0_Do\\CaseAggiunte\\Mercato\\street_market\\textures\\lantern_normal.png"
+    assetPath: "Assets\\Asset Scaricati\\Citt\xE0_Do\\CaseAggiunte\\Mercato\\street_market\\textures\\lantern_normal.png"
+  - type: 1
+    originalUri: "Assets\\Asset Scaricati\\Citt\xE0_Do\\CaseAggiunte\\Mercato\\street_market\\textures\\material_11_baseColor.png"
+    assetPath: "Assets\\Asset Scaricati\\Citt\xE0_Do\\CaseAggiunte\\Mercato\\street_market\\textures\\material_11_baseColor.png"
+  - type: 1
+    originalUri: "Assets\\Asset Scaricati\\Citt\xE0_Do\\CaseAggiunte\\Mercato\\street_market\\textures\\material_11_metallicRoughness.png"
+    assetPath: "Assets\\Asset Scaricati\\Citt\xE0_Do\\CaseAggiunte\\Mercato\\street_market\\textures\\material_11_metallicRoughness.png"
+  - type: 1
+    originalUri: "Assets\\Asset Scaricati\\Citt\xE0_Do\\CaseAggiunte\\Mercato\\street_market\\textures\\material_11_normal.png"
+    assetPath: "Assets\\Asset Scaricati\\Citt\xE0_Do\\CaseAggiunte\\Mercato\\street_market\\textures\\material_11_normal.png"
+  - type: 1
+    originalUri: "Assets\\Asset Scaricati\\Citt\xE0_Do\\CaseAggiunte\\Mercato\\street_market\\textures\\table_baseColor.png"
+    assetPath: "Assets\\Asset Scaricati\\Citt\xE0_Do\\CaseAggiunte\\Mercato\\street_market\\textures\\table_baseColor.png"
+  - type: 1
+    originalUri: "Assets\\Asset Scaricati\\Citt\xE0_Do\\CaseAggiunte\\Mercato\\street_market\\textures\\table_metallicRoughness.png"
+    assetPath: "Assets\\Asset Scaricati\\Citt\xE0_Do\\CaseAggiunte\\Mercato\\street_market\\textures\\table_metallicRoughness.png"
+  - type: 1
+    originalUri: "Assets\\Asset Scaricati\\Citt\xE0_Do\\CaseAggiunte\\Mercato\\street_market\\textures\\table_normal.png"
+    assetPath: "Assets\\Asset Scaricati\\Citt\xE0_Do\\CaseAggiunte\\Mercato\\street_market\\textures\\table_normal.png"
+  reportItems:
+  - type: 2
+    code: 20
+    messages:
+    - KHR_materials_specular

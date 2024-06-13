@@ -1,0 +1,11 @@
+Model Information:
+* title:	24/7 Cyberpunk Store
+* source:	https://sketchfab.com/3d-models/247-cyberpunk-store-2fff8b3c264e49d8a502918abea114b3
+* author:	NickJArt (https://sketchfab.com/NickJArt)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "24/7 Cyberpunk Store" (https://sketchfab.com/3d-models/247-cyberpunk-store-2fff8b3c264e49d8a502918abea114b3) by NickJArt (https://sketchfab.com/NickJArt) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)

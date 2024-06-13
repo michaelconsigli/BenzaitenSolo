@@ -1,0 +1,11 @@
+Model Information:
+* title:	Iberian Market
+* source:	https://sketchfab.com/3d-models/iberian-market-51a94cabda344ebcb579476b16296dfb
+* author:	Stanislas Dolcini (https://sketchfab.com/StanislasDolcini)
+
+Model License:
+* license type:	CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
+* requirements:	Author must be credited. Modified versions must have the same license. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Iberian Market" (https://sketchfab.com/3d-models/iberian-market-51a94cabda344ebcb579476b16296dfb) by Stanislas Dolcini (https://sketchfab.com/StanislasDolcini) licensed under CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
